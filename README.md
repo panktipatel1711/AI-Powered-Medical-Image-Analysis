@@ -27,4 +27,11 @@ This project uses **Convolutional Neural Networks (CNN)** to detect anomalies in
    pip install -r requirements.txt
 ## Run the analysis script:  
   python main.py
-   
+  ## 📊 Model Output & Results
+Hier is a preview of how the model performs:
+
+### Prediction Example:
+![Prediction Result](images/your_prediction_image.png)
+
+### Training Performance:
+![Accuracy Graph](images/accuracy_plot.png)
