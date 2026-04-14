@@ -18,6 +18,7 @@ This project uses **Convolutional Neural Networks (CNN)** to detect anomalies in
 * `data/`: Sample medical images for testing.
 * `notebooks/`: Jupyter notebooks for data exploration and training logs.
 * `requirements.txt`: List of all Python dependencies.
+* ~outouts/` : In Normal condition and pneumonia condition outputs are there.
 
 ## 🚀 How to Run
 1. Clone the repository:
@@ -27,11 +28,4 @@ This project uses **Convolutional Neural Networks (CNN)** to detect anomalies in
    pip install -r requirements.txt
 ## Run the analysis script:  
   python main.py
-  ## 📊 Model Output & Results
-Hier is a preview of how the model performs:
-
-### Prediction Example:
-![Prediction Result](images/your_prediction_image.png)
-
-### Training Performance:
-![Accuracy Graph](images/accuracy_plot.png)
+  
